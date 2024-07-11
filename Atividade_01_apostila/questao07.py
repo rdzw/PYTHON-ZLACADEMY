@@ -2,13 +2,10 @@
 # desde o início do ano. Esqueça a questão dos anos bissextos e considere
 # sempre que um mês possui 30 dias.
 
-
-ano = 365
 dia_mes = 30
 
 dia = int(input("Digite o dia: "))
 mes = int(input("Digite o mes: "))
-
 
 dias_contados = (mes - 1) * dia_mes + dia
 
