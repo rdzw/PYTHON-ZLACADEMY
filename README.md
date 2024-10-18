@@ -1,4 +1,4 @@
-# Programação Orientada a Objetos (POO) 📚
+# Exercicios e Programação Orientada a Objetos (POO) 📚
 
 ## Índice
 - [Introdução](#introdução)
