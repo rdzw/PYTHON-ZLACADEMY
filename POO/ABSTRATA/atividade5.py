@@ -27,5 +27,5 @@ class Circulo(Forma):
 quadrado = Quadrado(5)
 circulo = Circulo(3)
 
-quadrado.mostrar_area()  # Saída: A área da forma é: 25
-circulo.mostrar_area()   # Saída: A área da forma é: 28.274333882308138
+quadrado.mostrar_area() 
+circulo.mostrar_area()
